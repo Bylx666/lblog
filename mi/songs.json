@@ -32,14 +32,6 @@
         "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
     },
     {
-        "title":"Snow halation",
-        "artist":"μ's",
-        "album":"Snow halation",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
-    },
-    {
         "title":"輝夜の城で踊りたい",
         "artist":"μ's",
         "album":"きっと青春が聞こえる",
@@ -160,67 +152,315 @@
         "lyric":"https://sukmusicapi.vercel.app/lyric?id=520458911"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"君のこころは輝いてるかい?",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"君のこころは輝いてるかい?",
+        "url":"https://music.163.com/song/media/outer/url?id=35090743",
+        "cover":"https://ller.cf/imgs/cover/kiminoKokorokagayaite.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=35090743"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"未熟DREAMER",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"夢で夜空を照らしたい / 未熟DREAMER",
+        "url":"https://music.163.com/song/media/outer/url?id=429348296",
+        "cover":"https://ller.cf/imgs/cover/mijukiDreamer.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=429348296"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"ユメ語るよりユメ歌おう",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"ユメ語るよりユメ歌おう",
+        "url":"https://music.163.com/song/media/outer/url?id=426850013",
+        "cover":"https://ller.cf/imgs/cover/yumeUtaou.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=426850013"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"勇気はどこに?君の胸に!",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"勇気はどこに?君の胸に!",
+        "url":"https://music.163.com/song/media/outer/url?id=518094538",
+        "cover":"https://ller.cf/imgs/cover/yuukiwaDokoni.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=518094538"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"MIRAI TICKET",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"想いよひとつになれ / MIRAI TICKET",
+        "url":"https://music.163.com/song/media/outer/url?id=439121974",
+        "cover":"https://ller.cf/imgs/cover/omoiyoHitotsu.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=439121974"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"MIRACLE WAVE",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"MY舞☆TONIGHT / MIRACLE WAVE",
+        "url":"https://music.163.com/song/media/outer/url?id=520460872",
+        "cover":"https://ller.cf/imgs/cover/mymaiTonight.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=520460872"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"WONDERFUL STORIES",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
-        "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
+        "album":"WATER BLUE NEW WORLD / WONDERFUL STORIES",
+        "url":"https://music.163.com/song/media/outer/url?id=530995020",
+        "cover":"https://ller.cf/imgs/cover/waterBlueNewWorld.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=530995020"
     },
     {
-        "title":"青空Jumping Heart",
+        "title":"Thank you, FRIENDS!!",
         "artist":"Aqours",
-        "album":"青空Jumping Heart",
-        "url":"https://music.163.com/song/media/outer/url?id=28768036",
+        "album":"Thank you, FRIENDS!!",
+        "url":"https://music.163.com/song/media/outer/url?id=864100874",
         "cover":"https://ller.cf/imgs/cover/snowHalation.jpg",
-        "lyric":"https://sukmusicapi.vercel.app/lyric?id=28768036"
-    }   
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=864100874"
+    },
+    {
+        "title":"Hop? Stop? Nonstop!",
+        "artist":"Aqours",
+        "album":"逃走迷走メビウスループ / Hop? Stop? Nonstop!",
+        "url":"https://music.163.com/song/media/outer/url?id=1342955306",
+        "cover":"https://ller.cf/imgs/cover/mobius.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1342955306"
+    },
+    {
+        "title":"未来は風のように",
+        "artist":"Liella",
+        "album":"未来は風のように",
+        "url":"https://music.163.com/song/media/outer/url?id=1866489156",
+        "cover":"https://ller.cf/imgs/cover/miraiwaKazenoyouni.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1866489156"
+    },
+    {
+        "title":"私のSymphony",
+        "artist":"Liella",
+        "album":"始まりは君の空 (私を叶える物語盤)",
+        "url":"https://music.163.com/song/media/outer/url?id=1835533024",
+        "cover":"https://ller.cf/imgs/cover/watashinoSym.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835533024"
+    },
+    {
+        "title":"始まりは君の空",
+        "artist":"Liella",
+        "album":"始まりは君の空 (みんなで叶える物語盤)",
+        "url":"https://music.163.com/song/media/outer/url?id=1835406296",
+        "cover":"https://ller.cf/imgs/cover/hajimariwaKiminoSora.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835406296"
+    },
+    {
+        "title":"START!! True dreams",
+        "artist":"Liella",
+        "album":"START!! True dreams",
+        "url":"https://music.163.com/song/media/outer/url?id=1862821963",
+        "cover":"https://ller.cf/imgs/cover/startTrueDreams.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1862821963"
+    },
+    {
+        "title":"Dreaming Energy",
+        "artist":"Liella",
+        "album":"始まりは君の空 (みんなで叶える物語盤)",
+        "url":"https://music.163.com/song/media/outer/url?id=1835406294",
+        "cover":"https://ller.cf/imgs/cover/hajimariwaKiminoSora.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835406294"
+    },
+    {
+        "title":"Dancing Heart La-Pa-Pa-Pa!",
+        "artist":"Liella",
+        "album":"Dancing Heart La-Pa-Pa-Pa!",
+        "url":"https://music.163.com/song/media/outer/url?id=1835404515",
+        "cover":"https://ller.cf/imgs/cover/hajimariwaKiminoSora.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835404515"
+    },
+    {
+        "title":"Starlight Prologue",
+        "artist":"Liella",
+        "album":"ノンフィクション!! / Starlight Prologue【第12話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1888667282",
+        "cover":"https://ller.cf/imgs/cover/starLightPrologue.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1888667282"
+    },
+    {
+        "title":"未来予報ハレルヤ!",
+        "artist":"Liella",
+        "album":"未来予報ハレルヤ! / Tiny Stars【第1話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1875024842",
+        "cover":"https://ller.cf/imgs/cover/tinyStars.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1875024842"
+    },
+    {
+        "title":"Dream Rainbow",
+        "artist":"Liella",
+        "album":"ノンフィクション!! / Starlight Prologue【第12話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1888667281",
+        "cover":"https://ller.cf/imgs/cover/starLightPrologue.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1888667281"
+    },
+    {
+        "title":"ノンフィクション!!",
+        "artist":"Liella",
+        "album":"ノンフィクション!! / Starlight Prologue【第12話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1888672646",
+        "cover":"https://ller.cf/imgs/cover/starLightPrologue.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1888672646"
+    },
+    {
+        "title":"Primary",
+        "artist":"Liella",
+        "album":"リエラのうた",
+        "url":"https://music.163.com/song/media/outer/url?id=1902822303",
+        "cover":"https://ller.cf/imgs/cover/liellaSong.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1902822303"
+    },
+    {
+        "title":"Wish Song",
+        "artist":"Liella",
+        "album":"常夏☆サンシャイン / Wish Song【第8話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1902808874",
+        "cover":"https://ller.cf/imgs/cover/tokonatsu.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1902808874"
+    },
+    {
+        "title":"LIVE with a smile!",
+        "artist":"Aqours / 虹ヶ咲学園スクールアイドル同好会 / Liella!",
+        "album":"LIVE with a smile!",
+        "url":"https://music.163.com/song/media/outer/url?id=1892824240",
+        "cover":"https://ller.cf/imgs/cover/liveWithASmile.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1892824240"
+    },
+    {
+        "title":"1.2.3!",
+        "artist":"Liella",
+        "album":"未来予報ハレルヤ! / Tiny Stars【第3話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1875023979",
+        "cover":"https://ller.cf/imgs/cover/tinyStars.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1875023979"
+    },
+    {
+        "title":"Tiny Stars",
+        "artist":"Liella",
+        "album":"未来予報ハレルヤ! / Tiny Stars【第3話盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1875023978",
+        "cover":"https://ller.cf/imgs/cover/tinyStars.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1875023978"
+    },
+    {
+        "title":"NEO SKY, NEO MAP!",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"NEO SKY, NEO MAP!",
+        "url":"https://music.163.com/song/media/outer/url?id=1492603231",
+        "cover":"https://ller.cf/imgs/cover/neoSkyNeoMap.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1492603231"
+    },
+    {
+        "title":"虹色passion!",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"虹色passion!",
+        "url":"https://music.163.com/song/media/outer/url?id=1488804344",
+        "cover":"https://ller.cf/imgs/cover/nijiiroPassion.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1488804344"
+    },
+    {
+        "title":"未来ハーモニー",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"無敵級*ビリーバー",
+        "url":"https://music.163.com/song/media/outer/url?id=1834947913",
+        "cover":"https://ller.cf/imgs/cover/mutekikyuuBeliever.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1834947913"
+    },
+    {
+        "title":"TOKIMEKI Runners",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"無敵級*ビリーバー",
+        "url":"https://music.163.com/song/media/outer/url?id=1327263602",
+        "cover":"https://ller.cf/imgs/cover/tokimekiRunners.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1327263602"
+    },
+    {
+        "title":"ミラクル STAY TUNE！",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"not ALONE not HITORI / ミラクル STAY TUNE! / Shooting Voice!!【虹ヶ咲学園スクールアイドル同好会盤】",
+        "url":"https://music.163.com/song/media/outer/url?id=1903358825",
+        "cover":"https://ller.cf/imgs/cover/onAir1.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1903358825"
+    },
+    {
+        "title":"L!L!L! (Love the Life We Live)",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"L!L!L! (Love the Life We Live)",
+        "url":"https://music.163.com/song/media/outer/url?id=1887056125",
+        "cover":"https://ller.cf/imgs/cover/LLL.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1887056125"
+    },
+    {
+        "title":"Just Believe!!!",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"無敵級*ビリーバー",
+        "url":"https://music.163.com/song/media/outer/url?id=1834947913",
+        "cover":"https://ller.cf/imgs/cover/mutekikyuuBeliever.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1834947913"
+    },
+    {
+        "title":"未来ハーモニー",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"Just Believe!!!",
+        "url":"https://music.163.com/song/media/outer/url?id=1834949967",
+        "cover":"https://ller.cf/imgs/cover/justBelieve.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1834949967"
+    },
+    {
+        "title":"Love U my friends",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"Love U my friends",
+        "url":"https://music.163.com/song/media/outer/url?id=1834887954",
+        "cover":"https://ller.cf/imgs/cover/LoveUMyFriends.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1834887954"
+    },
+    {
+        "title":"Hurray Hurray",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"Hurray Hurray",
+        "url":"https://music.163.com/song/media/outer/url?id=1903478214",
+        "cover":"https://ller.cf/imgs/cover/DHurray.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1903478214"
+    },
+    {
+        "title":"色とりどりの虹 (メインテーマ)",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"TVアニメ『ラブライブ!虹ヶ咲学園スクールアイドル同好会』オリジナルサウンドトラック「Sound of TOKIMEKI」",
+        "url":"https://music.163.com/song/media/outer/url?id=1835028538",
+        "cover":"https://ller.cf/imgs/cover/tokimekiSound.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835028538"
+    },
+    {
+        "title":"夢がここからはじまるよ",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"Awakening Promise / 夢がここからはじまるよ",
+        "url":"https://music.163.com/song/media/outer/url?id=1811721498",
+        "cover":"https://ller.cf/imgs/cover/awakeningPromise.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1811721498"
+    },
+    {
+        "title":"スクールアイドルとは",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"TVアニメ『ラブライブ!虹ヶ咲学園スクールアイドル同好会』オリジナルサウンドトラック「Sound of TOKIMEKI」",
+        "url":"https://music.163.com/song/media/outer/url?id=1835032818",
+        "cover":"https://ller.cf/imgs/cover/tokimekiSound.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1835032818"
+    },
+    {
+        "title":"全速ドリーマー",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"NEO SKY, NEO MAP!",
+        "url":"https://music.163.com/song/media/outer/url?id=1492603275",
+        "cover":"https://ller.cf/imgs/cover/neoSkyNeoMap.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1492603275"
+    },
+    {
+        "title":"Sweet Eyes",
+        "artist":"虹ヶ咲学園スクールアイドル同好会",
+        "album":"虹色Passions！",
+        "url":"https://music.163.com/song/media/outer/url?id=1488806651",
+        "cover":"https://ller.cf/imgs/cover/nijiiroPassion.jpg",
+        "lyric":"https://sukmusicapi.vercel.app/lyric?id=1488806651"
+    }
 ]}

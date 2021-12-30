@@ -82,11 +82,11 @@ var builder = {
         for(var i=1;i<content.length;i++){
             var id = content[i].childNodes[1].innerHTML
             var file = content[i].childNodes[2].childNodes[0].innerHTML
-            var node = '{\"'+id+'\":\"'+file+'\"},'
-            if(i==content.length-1) node = '{\"'+id+'\":\"'+file+'\"}'
+            var node = '{\"file\":\"'+file+'\"},'
+            if(i==content.length-1) node = '{\"file\":\"'+file+'\"}'
             json += node
         }
-        json = '['+json+']'
+        json = '{"list":['+json+']}'
         var dl = new Blob([json],{type:"application/json"})
         var url = URL.createObjectURL(dl)
         document.getElementById('bexportButton').setAttribute('href',url)
@@ -94,4 +94,18 @@ var builder = {
      }
 }
 
-// function () {  }
+var blog = {
+    articles:'',
+    getArticles:function () { 
+        var articlesJson = window.location.href.replace('index.html','') + 'data.json'
+        if(articlesJson.includes('file:///')) articlesJson = 'http://localhost:8080/data.json'
+        var xhr = new XMLHttpRequest()
+        xhr.open('get',articlesJson)
+        xhr.send()
+        xhr.onreadystatechange = function () { 
+            if(xhr.readyState==4&&xhr.status==200){
+                blog.articles = JSON.parse(xhr.response)
+            }
+         }
+     }
+}
