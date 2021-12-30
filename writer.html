@@ -2,17 +2,17 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>lblog!</title>
+    <title>Writer!</title>
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
-    <input id="fileName" placeholder="index">
-    <input id="title" placeholder="untitled">
-    <div id="tags"><input id="newTag" placeholder="new tag"><div id="addTag" onclick="addTag()">+</div></div>
-    <textarea id="writePad"></textarea>
-    <div id="renderer"></div>
-    <a id="renderButton" onclick="render()">Render</a>
-    <a id="exportButton" onclick="inputExporter()" download="index.html" href="">Export</a>
+    <input id="wfileName" placeholder="index">
+    <input id="wtitle" placeholder="untitled">
+    <div id="wtags"><input id="wnewTag" placeholder="new tag"><div id="waddTag" onclick="writer.addTag()">+</div></div>
+    <textarea id="wwritePad"></textarea>
+    <div id="wrenderer"></div>
+    <a id="wrenderButton" onclick="writer.render()">Render</a>
+    <a id="wexportButton" onclick="writer.inputExporter()" download="index.html" href="">Export</a>
     <script src="main.js"></script>
 </body>
 </html>

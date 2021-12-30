@@ -15,18 +15,15 @@ textarea{
     margin: 0;
 }
 a{
-    color: white;
+    color: rgb(0, 160, 233);
     text-decoration: none;
     text-align: center;
-    align-items: center;
-    background-color: rgba(233,81,147,0.7);
-    box-shadow: 3px 3px 5px black;
 }
 a:hover{
     opacity: 0.7;
 }
-/* writer.index */
-#writePad{
+/* writer */
+#wwritePad{
     position: absolute;
     top: 150px;
     height: calc(100% - 160px);
@@ -36,11 +33,11 @@ a:hover{
     font-size: 30px;
     border-right: 2px solid rgba(0,0,0,0.1);
 }
-#writePad::selection{
+#wwritePad::selection{
     background-color: rgba(233,81,147,0.7);
     color: white;
 }
-#fileName{
+#wfileName{
     width: 120px;
     height: 30px;
     position: absolute;
@@ -48,7 +45,7 @@ a:hover{
     left: 30px;
     font-size: 30px;
 }
-#title{
+#wtitle{
     width: 300px;
     height: 30px;
     position: absolute;
@@ -56,31 +53,31 @@ a:hover{
     left: 180px;
     font-size: 24px;
 }
-#tags{
+#wtags{
     height: 30px;
     display: flex;
     top: 60px;
     left: 30px;
     position: absolute;
 }
-#newTag{
+#wnewTag{
     width: 120px;
     margin-right: 20px;
     height: 100%;
     font-size: 30px;
 }
-#addTag{
+#waddTag{
     height: 100%;
     position: relative;
     font-size: 24px;
     border-radius: 15px;
     border: 2px solid rgba(233,81,147,0.7);
 }
-#addTag:hover{
+#waddTag:hover{
     background-color: rgba(233,81,147,1);
     color: white;
 }
-.tag{
+.wtag{
     margin: 0 5px;
     height: 100%;
     position: relative;
@@ -89,10 +86,10 @@ a:hover{
     border-radius: 15px;
     color: white;
 }
-.tag:hover{
+.wtag:hover{
     background-color: rgba(0,0,0,0.7);
 }
-#renderer{
+#wrenderer{
     overflow-y: scroll;
     position: absolute;
     left: 60%;
@@ -102,29 +99,109 @@ a:hover{
     border-top: 2px solid rgba(233,81,147,0.7);
     font-size: 24px;
 }
-#renderer video,#renderer img{
+#wrenderer video,#renderer img{
     max-width: 100%;
 }
-#renderTitle{
-    font-weight: 700;
-    font-size: 30px;
-}
-#renderSubtitle{
-    color: rgba(0,0,0,0.7);
-    font-weight: 600;
-    font-size: 20px;
-}
-#renderButton{
+#wrenderButton{
     font-size: 30px;
     width: 120px;
     position: absolute;
     top:60px;
     right: 200px;
+    background-color: rgba(233,81,147,0.7);
+    box-shadow: 3px 3px 5px black;
+    color: white;
 }
-#exportButton{
+#wexportButton{
     width: 120px;
     position: absolute;
     top: 60px;
     right: 50px;
     font-size: 30px;
+    background-color: rgba(233,81,147,0.7);
+    box-shadow: 3px 3px 5px black;
+    color: white;
+}
+
+/* builder */
+#bexportButton{
+    width: 120px;
+    position: absolute;
+    top: 60px;
+    right: 50px;
+    font-size: 30px;
+    background-color: rgba(0,160,233,0.7);
+    box-shadow: 3px 3px 5px black;
+    color: white;
+}
+#baddButton{
+    font-size: 30px;
+    width: 120px;
+    position: absolute;
+    top:60px;
+    right: 200px;
+    background-color: rgba(0,160,233,0.7);
+    box-shadow: 3px 3px 5px black;
+    color: white;
+}
+#bUrls{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+    width: calc(100% - 400px);
+    height: 60px;
+    border: 1px solid rgb(0, 160, 233);
+}
+#bwarning{
+    position: absolute;
+    top: 125px;
+    font-size: 18px;
+    left: 30px;
+    color: rgba(233, 81, 147, 0.7);
+}
+#bcontent{
+    position: absolute;
+    top: 150px;
+    height: calc(100% - 160px);
+    width: calc(100% - 60px);
+    left: 30px;
+    border-top: 2px solid rgba(0,160,233,0.7);
+    font-size: 24px;
+}
+#bheader{
+    background-image: linear-gradient(rgba(0,160,233,0.4) 0,rgba(0,160,233,0.7) 70%,rgba(0,160,233,0.4) 100%);
+}
+.bitem{
+    overflow: auto;
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+}
+.brmFile{
+    position: absolute;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    opacity: 0;
+    background-color: rgba(233, 81, 147, 0.7);
+    border-radius: 15px;
+}
+.brmFile:hover{
+    opacity: 1;
+}
+.bid{
+    width: 40px;
+}
+.bfile{
+    width: 100%;
+}
+.btitle{
+    overflow: auto;
+    width: 200px;
+}
+.btags{
+    overflow: auto;
+    width: 200px;
 }
